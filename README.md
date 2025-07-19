@@ -1,11 +1,18 @@
 # Welcome to my GitHub webpage
 
-This website is a collections of various micro-projects I am developing in my spare time.
-I am driven by my passion for Numerical Mathematics, in particular Stochastic and Monte Carlo simulations.
+Collections of various micro-projects done to learn new topics.
+Written in my free time. I focus on foundations.
+Current topics:
+	- Numerical Linear Algebra. Basic operations in C, C++, CUDA
+	- Write graphics on the screen, using C and SDL
+	- Statistics: test for randomness
 
-The following repositories are currently available:
 
- - IntroLin: collection of ideas about Numerical Linear Algebra [IN PROGRESS]
- - TODO
+I don't have any particular plan, and I program here just for fun
+to complement the topics that I use in my profession.
 
-See you!
+But, I can see a potential merge of the topics above:
+	- write a solver for Stochastic Differential Equations, in parallized
+		CUDA, whose solution is then dynamically plotted on screen
+
+
